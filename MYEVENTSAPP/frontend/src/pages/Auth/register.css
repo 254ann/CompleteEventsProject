@@ -1,0 +1,27 @@
+
+
+
+.register-form-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+}
+
+.register-form {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+
+}
+
+.registe-form h2 {
+    margin-bottom: 20px;
+}
+.register-form .input-field {
+    margin-bottom: 16px;
+    width: 100%;
+}
+
+
